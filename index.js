@@ -3,7 +3,6 @@ module.exports = (a) => {
     return {
         image: {
             list: 'docker images',
-
         },
     };
 };
